@@ -4,7 +4,8 @@ input {
   font-size: 75px;
   border-radius: 10px;
   margin: 10px;
-  background-color: #000;
+/*   background-color: #000; */
+   background-color: #585e65;
   color: #fff;
   border-style: none;
 }
